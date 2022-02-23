@@ -19,7 +19,7 @@
 
 FROM        node:alpine
 
-LABEL       author="Dan Wahlin"
+LABEL       author="Docker User"
 
 ARG         PACKAGES=nano
 
